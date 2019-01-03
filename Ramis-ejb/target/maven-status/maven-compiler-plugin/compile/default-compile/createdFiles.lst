@@ -1,0 +1,5 @@
+com/mycompany/model/Machine.class
+com/mycompany/service/RamisServices.class
+com/mycompany/NewSessionBean.class
+com/mycompany/model/TimeClock.class
+com/mycompany/model/MachineRunningMode.class
